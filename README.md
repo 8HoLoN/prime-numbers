@@ -7,7 +7,7 @@ I have never seen prime numbers expressed/defined this way, so I decided to writ
 # Formulae
 * With 1 element in the first set but less elegant.
 
-![](prime.svg)
+![](prime_2.svg)
 
 * With 2 elements in the first set.
 
