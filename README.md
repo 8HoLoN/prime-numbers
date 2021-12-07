@@ -9,6 +9,6 @@ I have never seen prime numbers expressed/defined this way, so I decided to writ
 
 ![](prime_2.svg)
 
-* With 2 elements in the first set (but an unique ν function defintion).
+* With 2 elements in the first set (more elegant with an unique ν function definition).
 
 ![](prime_23.svg)
